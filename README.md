@@ -1,5 +1,3 @@
-# CS6400-2019-03-Team05
-Repository for CS6400-2019-03-Team05
 
 # FlaskApp
 
